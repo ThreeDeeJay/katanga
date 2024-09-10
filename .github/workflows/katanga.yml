@@ -1,7 +1,6 @@
 name: Katanga
 
 on:
-  # Manual dispatch
   workflow_dispatch:
   push:
     branches: [ "master" ]
